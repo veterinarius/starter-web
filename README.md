@@ -21,4 +21,4 @@ Please fork this repo and then issue Pull Request for review.
 
 ### Copyright
 
-Git.Wegmann 2016
+Git.Wegmann 2016. Allrights reserved
